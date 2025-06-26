@@ -1,5 +1,17 @@
+| playSTEM academy | a STEM game startup for kids and teens, to foster curiosity and creativity in Science, Technology, Engineering and Mathematics. |
+| - | - |
+| ![image](https://github.com/user-attachments/assets/bd982bc0-7256-47ef-8fb1-af7cc9083cd6) | As a founder, I held many positions from start to the end, like: Product Owner, Designer, Video Producer, User Experience Designer, Game Developer, Marketing Manager, Human Resources, Accounting Manager, and the Pitching Guy. |
 
-[WIP playSTEM academysite](https://biralavor.github.io/playstem_academy/)
+Under this scope, my team and I launched a mobile game called Milky Shaky LAB: a telescope simulator for space explorers to find celestial bodies in real time, collect scientific stickers, test their knowledge and fill stunning albums, using their mobile devices. It's a kind of Pokémon Go, but Cosmic!
+
+We won 4 Public Notices from the City Hall of São Paulo, which helped playSTEM academy deliver "Milky Shaky LAB", connected with CERN’s and NASA’s teams, and do presentations in Brazil and in a few events in Europe, like: GamesCon (Germany)
+
+My achievements at [playSTEM academy](https://biralavor.github.io/playstem_academy/)
+- 1 Delivered App: A real time mobile telescope simulator for kids
+- 1x Incubation project (by SP Game Start - São Paulo City Hall)
+- 2x Pre-Acceleration Programs approved (by Samsung)
+- 1x Acceleration Program approved (by ADEsampa/VAITEC - São Paulo City Hall)
+- 4x Public Notice Grants/Funds winner
 
 ---
 > [!NOTE]
